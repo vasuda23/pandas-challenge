@@ -1,0 +1,7 @@
+Few prime observations are:
+1) Number of Male players are more than female players.
+2) Maximum number of players are between age group 20-24
+3) Final Critic id the most profitable item and most popular item.
+4) Lisosia93 is the top spender
+
+Link:http://localhost:8889/notebooks/hw4/HW_4.ipynb
